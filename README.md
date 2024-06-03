@@ -25,3 +25,6 @@ Feel free to fork this repository and make your own improvements. Pull requests 
 ## License
 This project is licensed under the MIT License.
 You can create a file named `README.md` in your project directory and copy this content into it. This will help others understand what your project is about and how to get started with it.
+
+## Sample Screenshot
+<img width="679" alt="ToDoSample" src="https://github.com/harpalmodasiya/To-Do-App-in-Python/assets/171497968/d3678fa0-c942-46af-9207-0f82c9887ed1">
