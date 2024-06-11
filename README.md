@@ -9,11 +9,12 @@ ToDo App using Python is a simple and efficient To-Do application built using Py
   
 ### Prerequisites
 - Python 3.11 (64 bit)
+- Tkinter library
   
 ### Installing
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harpalmodasiya/PyToDoApp.git
+   git clone https://github.com/harpalmodasiya/To-Do-App-in-Python.git
 
 ## Usage
 Run the application using the following command:
